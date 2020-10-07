@@ -1,4 +1,5 @@
 console.log(moment().format('MMMM Do YYYY'));
+console.log(moment().hours());
 
 $(document).ready(function () {
     $("#currentDay").text(moment().format('dddd, MMMM Do'));
