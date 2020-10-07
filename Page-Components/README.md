@@ -1,4 +1,16 @@
-# work-day-scheduler
+# Your New Workday Planner
+
+
+## Ditch Your Old Planner:
+
+With so many of the tools we use migrating to online platforms, I think it's time your planner did the same. As a working professional, you're on the go and need a scheduler that you can access no matter where you are. This Workday Scheduler is perfect for you to plan the average work shift hour by hour. Don't forget to save your content using the blue save icon at the end of each content box. This way you can pull up your planner on any device and see the plans you made for yourself for each hour of the day.
+
+![save your work with the floppy disk icon](Images/save-your-events-scrsh.png)
+
+## Installation
+
+Using the Workday Scheduler is so easy! Just [click here]() to start planning your day. If you would like to 
+
 https://www.youtube.com/watch?v=n80RRNS1k64
 
 https://momentjs.com/
